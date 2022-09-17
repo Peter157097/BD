@@ -1,6 +1,6 @@
 USE bdEstoque
 
-DROP DATABASE bdEstoque
+--DROP DATABASE bdEstoque
 
 INSERT INTO tbCliente (nomeCliente, cpfCliente, emailCliente, sexoCliente, dtNascCliente)
 VALUES ('Armando José Santana', 12345678900 , 'armandojsantana@outlook.com' , 'm' , '21/02/1961')
